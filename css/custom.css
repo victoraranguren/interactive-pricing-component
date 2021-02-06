@@ -11,12 +11,14 @@ body {
 }
 
 .header {
+  background: #eaeefb;
   padding: 4em 0;
-  padding-bottom: 3.5em;
+  padding-bottom: 17em;
   text-align: center;
   display: flex;
   justify-content: center;
   flex-direction: column;
+  border-bottom-left-radius: 50%;
 }
 .header__title {
   display: inline-block;

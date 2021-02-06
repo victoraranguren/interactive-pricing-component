@@ -10,12 +10,14 @@ body{
 }
 
 .header{
+  background: $light-grayish-blue;
   padding: 4em 0;
-  padding-bottom: 3.5em;
+  padding-bottom: 17em;
   text-align: center;
   display: flex;
   justify-content: center;
   flex-direction: column;
+  border-bottom-left-radius: 50%;
   &__title{
     display: inline-block;
     font-size: 1.25em;
